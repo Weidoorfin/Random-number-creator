@@ -1,2 +1,2 @@
 # Random-number-creator
-单纯是给李帅宇写的
+Just written for the instructor in high school
